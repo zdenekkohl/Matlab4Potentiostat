@@ -1,4 +1,4 @@
-# MatlabPotentiostat - Library for Managing Biologic Potentiostat by Means of MATLAB<sup>®</sup>
+# Matlab4Potentiostat - Library for Managing Biologic Potentiostat by Means of MATLAB<sup>®</sup>
 
 This is a package for managing Biologic Potentiostat by means of MATLAB<sup>®</sup>. The library is based on the C library provided by the Biologic Company via the EClib64.dll file which is a part of the "EC-Lab® Development Package". This package was created from and tested with the "EC-Lab® Development Package" version 6.11.2 (Feb 18, 2025).
 
