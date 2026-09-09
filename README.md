@@ -54,7 +54,7 @@ The library "BL_apiInterface.dll" can be created from the source code "**defineB
 
 
 
-The source code "defineBL_api.m" should be existing in the current folder including the C library "EClib64.dll", both header files "BLFunctions.h" and "BLStructs.h" and the "BL_apiData.xml". The content of the XML file should be manually edited to reflect real directories on local PC. For successful run, a C compiler should be configured in MATLAB<sup>®</sup>. Either free MinGW64 compiler or Microsoft Visual C++ can be used. The compiler can be verified/changed via the command "mex -setup". Re-compilation may be necessary in case of using incompatible MATLAB<sup>®</sup> version, if the user wants to change some parameters or function definitions offered by the author, etc.
+The source code "defineBL_api.m" should be existing in the current folder including the C library "EClib64.dll", both header files "BLFunctions.h" and "BLStructs.h" and the "BL_apiData.xml". The content of the file "defineBL_api.m" and the XML file should be manually edited to reflect actual directories structure on local PC. For successful run, a C compiler should be configured in MATLAB<sup>®</sup>. Either free MinGW64 compiler or Microsoft Visual C++ can be used. The compiler can be verified/changed via the command "mex -setup". Re-compilation may be necessary in case of using incompatible MATLAB<sup>®</sup> version, if the user wants to change some parameters or function definitions offered by the author, etc.
 
 ## Re-creating the Library Source File
 

@@ -12,7 +12,7 @@ function libDef = defineBL_api()
 libDef = clibgen.LibraryDefinition("BL_apiData.xml");
 
 %% OutputFolder and Libraries 
-libDef.OutputFolder = "C:\Users\zkohl\OneDrive - Univerzita obrany\Projekty\GACR_24-26_impedance\Biologic\script\clib";
+libDef.OutputFolder = "D:\clib";
 libDef.Libraries = "EClib64.dll";
 
 %% Constants0
